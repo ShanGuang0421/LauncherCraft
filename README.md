@@ -17,4 +17,6 @@
 网址为https://zh.minecraft.wiki/
 这是一个中文Minecraft平台，提供大量游戏信息，由大量爱好者共同创建并运营。
 
+PS：此软件遵循GPL v3开源协议，感兴趣的自己fork，本人15岁，对于这种事心大得很😜
+有什么bug直接提issue
 
