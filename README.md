@@ -6,6 +6,7 @@
 > 家长直接把PCL（Plain Craft Launcher）
 > 连同私服房主一同举报，
 > PCL被迫关闭Minecraft下载功能。
+>编程语言：Kotlin
 
 
 ## ⚠️ 免责声明 (Disclaimer)
@@ -17,6 +18,7 @@
 网址为https://zh.minecraft.wiki/
 这是一个中文Minecraft平台，提供大量游戏信息，由大量爱好者共同创建并运营。
 
+>Android支持范围：Android 4.4（Kitkat）以上
 PS：此软件遵循GPL v3开源协议，感兴趣的自己fork，本人15岁，对于这种事心大得很😜
-有什么bug直接提issue
+有什么bug直接提issue即可，本人随见随修
 
