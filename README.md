@@ -18,7 +18,8 @@
 本游戏为第三方、纯个人开发的学习/开源项目。
 **与 Microsoft、Mojang、NetEase（网易）等公司没有任何关联。**
 
-## ⚠️ Disclaimer This game is a third-party, purely personal-developed learning/open source project. **Not related to companies such as Microsoft, Mojang, NetEase. **
+## ⚠️ Disclaimer This game is a third-party, purely personal-developed learning/open source project. 
+**Not related to companies such as Microsoft, Mojang, NetEase. **
 
 <img width="1080" height="1411" alt="15398" src="https://github.com/user-attachments/assets/4c5f1960-ac17-40d4-819c-1d273618619d" />
 
