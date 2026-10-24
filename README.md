@@ -12,6 +12,8 @@
  Born in a magical "reporting turmoil" in 2026 -  A parent is charging money in Minecraft private server, Parents directly put PCL (Plain Craft Launcher) Together with the private server homeowner, PCL was forced to turn off the Minecraft download function. 
 > Programming Language: Kotlin
 
+<img width="1080" height="1411" alt="15398" src="https://github.com/user-attachments/assets/4c5f1960-ac17-40d4-819c-1d273618619d" />
+
 
 ## ⚠️ 免责声明 (Disclaimer)
 本游戏为第三方、纯个人开发的学习/开源项目。
@@ -20,7 +22,6 @@
 ## ⚠️ Disclaimer This game is a third-party, purely personal-developed learning/open source project. 
 **Not related to companies such as Microsoft, Mojang, NetEase. **
 
-<img width="1080" height="1411" alt="15398" src="https://github.com/user-attachments/assets/4c5f1960-ac17-40d4-819c-1d273618619d" />
 
 贴图资源来源于中文Minecraft wiki，
 网址为https://zh.minecraft.wiki/
