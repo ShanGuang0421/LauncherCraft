@@ -9,8 +9,7 @@
 >编程语言：Kotlin
 
 > A 2D sandbox game (Minecraft style) independently developed by individuals.
-> Born in a magical "reporting turmoil" in 2026 - > A parent is charging money in Minecraft private server, 
-> Parents directly put PCL (Plain Craft Launcher) > Together with the private server homeowner, > PCL was forced to turn off the Minecraft download function. 
+ Born in a magical "reporting turmoil" in 2026 -  A parent is charging money in Minecraft private server, Parents directly put PCL (Plain Craft Launcher) Together with the private server homeowner, PCL was forced to turn off the Minecraft download function. 
 > Programming Language: Kotlin
 
 
