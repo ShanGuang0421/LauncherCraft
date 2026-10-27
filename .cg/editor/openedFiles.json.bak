@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft/app/src/main/java/com/sgty/lcraft/GameView.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 11606,
+          "line": 294
+        },
+        "start": {
+          "column": 1,
+          "index": 11606,
+          "line": 294
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft/app/src/main/java/com/sgty/lcraft/GameView.kt"
+}

@@ -1,0 +1,36 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 41,
+          "index": 737,
+          "line": 35
+        },
+        "start": {
+          "column": 41,
+          "index": 737,
+          "line": 35
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft/app/src/main/java/com/sgty/lcraft/GameView.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/LauncherCraft/app/src/main/java/com/sgty/lcraft/GameView.kt"
+}
